@@ -15,3 +15,4 @@ var postData = myCollector.getDataArray();
 // Or export in a json -friendly format
 var jsonData = myCollector.getJsonData();
 ```
+:boom:
